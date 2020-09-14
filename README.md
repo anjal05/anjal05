@@ -11,8 +11,6 @@ A student of Integrated Btech+Mtech in CSE with specialisation in Artificial Int
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjal05&layout=compact&hide=html" alt="anjal05" /></p>
-
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=anjal05&show_icons=true&text_color=daf7dc&bg_color=151515" alt="anjal05" /></p>
 
