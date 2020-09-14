@@ -5,7 +5,7 @@ A student of Integrated Btech+Mtech in CSE with specialisation in Artificial Int
 - 👯 **I’m looking to collaborate** on any data science or ML projects.
 - 🤔 **I’m looking for help with** trying to find an internship in data science or ML field so that I gain more knowledge and experience in that field.
 - 💬 **Ask me about** Python,Data Science,Machine Learning,Tensorflow,Deep Learning
-- 📫**How to reach me:** Contact me directly on my [Email](mailto:anjalisaini302@gmail.com) or on [Linkedln](https://www.linkedin.com/in/anjali-saini-9615571b5/)
+- 📫**How to reach me:** Contact me directly on my [Email](mailto:anjalisaini302@gmail.com) 
 - 😄 **Pronouns:** She/her
 - ⚡ **Fun fact:** I love to sketch,listen to music and read novels.
 
