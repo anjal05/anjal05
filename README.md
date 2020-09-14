@@ -9,13 +9,9 @@ A student of Integrated Btech+Mtech in CSE with specialisation in Artificial Int
 - 😄 **Pronouns:** She/her
 - ⚡ **Fun fact:** I love to sketch,listen to music and read novels.
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjal05&show_icons=true&text_color=daf7dc&bg_color=151515" alt="anjal05" /></p>
 
-
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=anjal05&show_icons=true&text_color=daf7dc&bg_color=151515" alt="anjal05" /></p>
-
-
-<p align="right">
+<p align="center">
 <a href="https://linkedin.com/in/anjali-saini-9615571b5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="anjali-saini-9615571b5" height="30" width="30" /></a>
 <a href="https://fb.com/anjali.saini.3766" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="anjali.saini.3766" height="30" width="30" /></a>
 <a href="https://instagram.com/anjali._.saini_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="anjali._.saini_" height="30" width="30" /></a>
